@@ -266,7 +266,7 @@ placeholder = info@yourmail.com
 aria-label = Submit
 <ion-icon name="paper-plane-outline"></ion-icon>
 
-&copy; 2022 codewithsadee. All Rights Reserved
+&copy; 2022 sriram. All Rights Reserved
 
 
 
